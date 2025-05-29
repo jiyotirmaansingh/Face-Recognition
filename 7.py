@@ -20,3 +20,6 @@ while True:
     
 camera.release()
 cv2.destroyAllWindows()
+
+
+//python face_detection.py
